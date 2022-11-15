@@ -1,4 +1,4 @@
-# NomedoProjeto
+# Dark Genealogy Tree
 
 **Número da Lista**: 13<br>
 **Conteúdo da Disciplina**: Grafos 1<br>
@@ -10,7 +10,7 @@
 | xx/xxxxxx  |  Giovana Vitor Dionísio Santana |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+O objetivo do projeto é utilizar da busca em largura (BFS) e busca em profundidade (DFS) para mostrar o menor grau de parentesco entre os personagens da série como também se existe relação de parentesco entre os dois
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
@@ -20,8 +20,20 @@ Adicione 3 ou mais screenshots do projeto em funcionamento.
 **Framework**: (caso exista)<br>
 Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
 
+## Requisitos
+É necessário ter o python e o gerenciador de pacotes pip instalado
+
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Primeiro será necessário rodar o comando abaixo para instalar as dependências necessárias:
+```
+python -m pip install -r requirements.txt
+```
+para rodar a aplicação o comando baixo deverá ser executado
+```
+python app.py
+```
+
+Por fim no console usado irá aparecer o ip que irá mostrar a relação de parentesco entre os personagens
 
 ## Outros 
 Arvore genealógica utilizada como base: https://dark.netflix.io/pt/family-tree
