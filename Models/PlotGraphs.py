@@ -3,7 +3,7 @@ from dash import Dash, html
 import dash_cytoscape as cyto
 
 class PlotGraphs:
-  def __init__(self, graphs: list[Character]):
+  def __init__(self, graphs):
     self.edges = []
     self.nodes = [] 
     for node in graphs:
