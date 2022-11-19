@@ -7,5 +7,7 @@ familyLevel = {
     6: "pentaneto",
     7: "hexaneto",
     8: "heptaneto",
-    9: "octaneto"
+    9: "octaneto",
+    10: "eneaneto",
+    11: "decaneto",
 }

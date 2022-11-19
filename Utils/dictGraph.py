@@ -6,7 +6,5 @@ def dictGraph():
 
     for person in tree.characters:
         graph[person.name] = person.sons
-    
-    return graph
 
-    
+    return graph
