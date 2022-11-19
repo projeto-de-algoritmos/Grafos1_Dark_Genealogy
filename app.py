@@ -40,6 +40,17 @@ app.layout = html.Div(
           id='cytoscape',
           elements=graphs.elements,
           layout={'name': 'cose'},
+          stylesheet=[
+            {
+              'selector': 'node',
+              'style': {'content': 'data(label)',}
+            },
+            {
+              'selector': 'edge',
+              'style': {'curve-style': 'straight',
+                        'target-arrow-shape': 'vee'}
+            }
+          ]
         ),
         html.Div(
           style={
