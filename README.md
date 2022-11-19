@@ -7,7 +7,7 @@
 |Matrícula | Aluno |
 | -- | -- |
 | 17/0161871  |  Denniel William Roriz Lima |
-| xx/xxxxxx  |  Giovana Vitor Dionísio Santana |
+| 18/0017659  |  Giovana Vitor Dionísio Santana |
 
 ## Sobre 
 O objetivo do projeto é utilizar da busca em largura (BFS) e busca em profundidade (DFS) para mostrar o menor grau de parentesco entre os personagens da série como também se existe relação de parentesco entre os dois
