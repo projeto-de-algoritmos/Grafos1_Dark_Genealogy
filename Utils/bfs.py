@@ -48,7 +48,7 @@ def buscaParentesco(pessoa1, pessoa2):
 
   plot_graphs.reset()
   return {
-    'title': "Não são parentes",
+    'title': "Não existe relação de ancestralidade",
     'elements': plot_graphs.elements
   }
 
