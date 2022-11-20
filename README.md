@@ -10,7 +10,7 @@
 | 18/0017659  |  Giovana Vitor Dionísio Santana |
 
 ## Sobre 
-O objetivo do projeto é utilizar da busca em largura (BFS) e busca em profundidade (DFS) para mostrar o menor grau de parentesco entre os personagens da série como também se existe relação de parentesco entre os dois
+O objetivo do projeto é utilizar da busca em largura (BFS) para mostrar o grau de ancestralidade entre os personagens da série [D A Я K](https://pt.wikipedia.org/wiki/Dark).
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
